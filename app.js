@@ -46,6 +46,9 @@ typewriter
   .deleteChars(11)
   .typeString('<span style="color: #4ac22c;"> NodeJS-MongoDB</span> !')
   .pauseFor(1000)
+  .deleteChars(17)
+  .typeString('<span style="color: #8892BF;"> Php</span> !')
+  .pauseFor(1000)
   .start();
 
 //Anim scrollMagic
