@@ -774,11 +774,11 @@ h1 {
 }
 
 .b1 {
-  width: 85%;
+  width: 90%;
   background: #b2df7e;
 }
 .b2 {
-  width: 75%;
+  width: 80%;
   background: #b2df7e;
 }
 .b3 {
@@ -794,8 +794,8 @@ h1 {
   background: #b2df7e;
 }
 .b6 {
-  width: 65%;
-  background: #fbb85a;
+  width: 70%;
+  background: #ebe461;
 }
 .b7 {
   width: 80%;
@@ -804,6 +804,10 @@ h1 {
 .b8 {
   width: 80%;
   background: #b2df7e;
+}
+.b9 {
+  width: 65%;
+  background: #fbb85a;
 }
 .labelSkill {
   font-size: 24px;
